@@ -6,3 +6,6 @@
 `[Git comands]`
 * (https://www.atlassian.com/git/glossary);
 * (https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.htm)
+*
+`Markdown'
+* [GitHib Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
